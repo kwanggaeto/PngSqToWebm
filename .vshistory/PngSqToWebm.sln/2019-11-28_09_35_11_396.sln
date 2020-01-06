@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PngSqToWebm", "PngSqToWebm\PngSqToWebm.csproj", "{B19F5AF5-32A2-47E0-9EB9-26A260D4DBAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B19F5AF5-32A2-47E0-9EB9-26A260D4DBAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B19F5AF5-32A2-47E0-9EB9-26A260D4DBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B19F5AF5-32A2-47E0-9EB9-26A260D4DBAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B19F5AF5-32A2-47E0-9EB9-26A260D4DBAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7CC8290-D8B3-49BC-9630-95B48EFFB5CB}
+	EndGlobalSection
+EndGlobal
